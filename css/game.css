@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: black;
+}
+table,tr,td{
+	 border:1px solid yellow;
+	 border-collapse: collapse;
+	 margin: 0 auto;
+}
+td{
+	width: 25px;
+	height: 28px;
+}
+td.O{
+	background: url(images/0.jpg);
+}
+td.I{
+	background: url(images/1.jpg);
+}
+td.L{
+	background: url(images/2.jpg);
+}
+td.J{
+	background: url(images/3.jpg);
+}
+td.T{
+	background: url(images/4.jpg);
+}
+td.Z{
+	background: url(images/5.jpg);
+}
+td.S{
+	background: url(images/6.jpg);
+}
+td.X{
+	background: url(images/6.jpg);
+}
